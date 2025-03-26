@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rohan
 - 👀 I’m interested in nothing really 
-- 🌱 I’m currently learning javascript....yah just an another noobie
+- 🌱 I’m currently learning Data science....yah just an another noobie
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at ig @rohankrish
 - 😄 Pronouns: he and him
